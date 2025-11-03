@@ -39,15 +39,15 @@ Metric: **Accuracy**
 pip install -r requirements.txt
 ```
 
-# Python 3.10
-numpy>=1.23.0
-torch>=2.0.0
-torchvision>=0.15.0
-tensorflow>=2.12.0
-matplotlib>=3.7.0
-idx2numpy>=1.3.0
+# Python 3.10  
+numpy>=1.23.0  
+torch>=2.0.0  
+torchvision>=0.15.0  
+tensorflow>=2.12.0  
+matplotlib>=3.7.0  
+idx2numpy>=1.3.0  
 
-run simulation by
+run simulation by  
 ```
 python featuremap.py
 ```
